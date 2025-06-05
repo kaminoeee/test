@@ -1,0 +1,13 @@
+body {
+  background: #222;
+  color: #fff;
+  text-align: center;
+  font-family: sans-serif;
+}
+#game-container, canvas {
+  margin: 0 auto;
+  display: block;
+}
+h1 {
+  margin-bottom: 12px;
+}
